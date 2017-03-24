@@ -1,0 +1,3 @@
+BLAS=/usr/lib/libblas.a
+LAPACK=/usr/lib/liblapack.a
+MATLAB_HOME=/home/lin/local/MatlabR2015a/

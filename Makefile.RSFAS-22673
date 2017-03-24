@@ -1,0 +1,3 @@
+BLAS=/home/honglin/Source/BLAS-3.7.0/blas_LINUX.a
+LAPACK=/home/honglin/Source/lapack-3.6.0/liblapack.a
+MATLAB_HOME=/home/honglin/local/MATLAB/R2016b/
